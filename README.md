@@ -14,7 +14,7 @@ jQuery plugin to switch image on hover.
 
 ## Demo / デモ
 
-[Demo](https://wanakijiji.github.io/hover-image/)
+[Demo](https://wanakijiji.github.io/hover-image/example/)
 
 ## Features / 機能
 
