@@ -1,22 +1,22 @@
 # jQuery Switch Image on Hover
  
-## Contents / 目次
+## Contents
 
-- [Description](#Description｜説明)
-- [Demo](#Demo｜デモ)
-- [Features](#Features｜機能)
+- [Description](#Description)
+- [Demo](#Demo)
+- [Features](#Features)
 
-## Description｜説明
+## Description
 
 jQuery plugin to switch image on hover.  
 マウスオーバーで画像を切り替えるjQueryプラグインです。
 
 
-## Demo｜デモ
+## Demo
 
 [Demo](https://wanakijiji.github.io/hover-image/example/)
 
-## Features｜機能
+## Features
 
 - **Switch image on hover:**  
   Switch the image on hover for an suffixed image.  
