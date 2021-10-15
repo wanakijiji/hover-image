@@ -21,7 +21,7 @@ $.fn.hoverImage = function(options) {
       // preload
       $('<img>').attr('src', srcActive);
       // switch image
-      if (options.selfPage && (url === href || url !== '/' && url.includes(href)))) {
+      if (options.selfPage && (url === href || (url !== '/' && url.includes(href)))) {
         // self page
         $(this).attr('src', srcActive);
       } else {
